@@ -2,9 +2,9 @@
 
 ![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
-# **{{ repo-name }}**
+# **Brain_Hologram**
 
-_**{{ repo-description }}**_
+_**Holograma representativo de un Cerebro**_
 
 
 </header>
